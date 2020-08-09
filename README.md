@@ -15,6 +15,9 @@ https://medium.com/vickdata/detecting-hate-speech-in-tweets-natural-language-pro
 
 https://medium.com/emergent-future/spam-detection-using-neural-networks-in-python-9b2b2a062272
 
+
+https://towardsdatascience.com/nlp-sequence-to-sequence-networks-part-2-seq2seq-model-encoderdecoder-model-6c22e29fd7e1
+
 Upsampling code:-
 from sklearn.utils import resample
 
